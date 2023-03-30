@@ -1,0 +1,10 @@
+body{
+    height: 100vh;
+    background: linear-gradient(to top left,rgb(1, 225, 250),rgb(46, 165, 46));
+    align-items: center;
+    display: flex;
+}
+h1{
+    display: flex;
+    align-items: center;
+}
